@@ -1,0 +1,8 @@
+* {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.mensaje{
+    border:  double 4px orangered;
+    padding: 1.25rem;
+}
